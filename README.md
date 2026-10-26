@@ -1,2 +1,1 @@
-# warm-lighting
-Makes lighting warm
+Warm lighting makes light sources like torches and lava glow a cozy and warm orange hue when in shade. Sky light at day is not warm so dont worry, but sky light does switch to a nice dark sky blue at night which gives night time a cold vibe that complements the lighting. The inside of ur home and caves look alot better I think with mod. I can assure the caves will atleast lol. This mod has many changeable settings located in the settings txt so it can be tailored to any users liking.
